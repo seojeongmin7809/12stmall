@@ -8,8 +8,8 @@ import stmall.infra.AbstractEvent;
 public class DeliveryStarted extends AbstractEvent {
 
     private Long id;
-    private String deloveryId;
-    private String productId;
+    private Long deloveryId;
+    private Long productId;
     private Long orderId;
     private Integer qty;
     private String productName;

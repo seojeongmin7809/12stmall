@@ -19,7 +19,7 @@ public class Delivery {
 
     private Long orderId;
 
-    private String productId;
+    private Long productId;
 
     private Integer qty;
 

@@ -106,7 +106,7 @@
             
             this.newValue = {
                 'orderId': 0,
-                'productId': '',
+                'productId': 0,
                 'qty': 0,
                 'productName': '',
                 'status': '',
